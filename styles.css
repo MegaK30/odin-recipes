@@ -1,4 +1,25 @@
 .center {
     text-align: center;
+    background-color: deepskyblue;
     color: blue;
+    padding: 8px;
+    border: 4px;
+    border-color: black;
+    Margin: 20px auto; 
+}
+
+div.container {
+    text-align: center;
+  }
+  
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+  }
+
+.button {
+    margin: 30px;
+    border: 30px;
+    background-color: lightgreen;
+    color: darkgreen;
 }
